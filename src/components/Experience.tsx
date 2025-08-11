@@ -7,7 +7,7 @@ const Experience = () => {
       company: "Freelance",
       position: "Front-end developer",
       period: "Feb 2025 - Present",
-      location: "Rmote",
+      location: "Remote",
       description: [
         "Develop User Interfaces: Build responsive, user-friendly web interfaces using HTML, CSS, Bootstrap,Tailwind , JavaScript, and React.js.",
         "Client Collaboration: Understand client needs, provide updates, and incorporate feedback to deliver tailored solutions.",
