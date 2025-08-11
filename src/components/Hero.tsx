@@ -11,7 +11,7 @@ const Hero = () => {
   };
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden">
+    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden py-32">
       <div className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-10"/>
       <div className="absolute inset-0 bg-gradient-hero" />
       <div className="absolute top-20 left-10 w-20 h-20 bg-primary/20 rounded-full animate-float" />
