@@ -16,8 +16,17 @@ const Projects = () => {
       github: "https://github.com/Rana5Ahmed/Browser-Extension",
       demo: "https://rana5ahmed.github.io/Browser-Extension/"
     },
-     {
+    {
       id: 2,
+      title: "Online Learning",
+      description: "Online learning website built with a modern responsive design, ensuring seamless access across devices.It integrates interactive features and scalable architecture for a smooth and engaging user experience.",
+      image: "/Online Learning.png",
+      technologies: ["HTML", "CSS","JS"],
+      github: "https://github.com/Rana5Ahmed/Online-Learning",
+      demo: "https://rana5ahmed.github.io/Online-Learning/"
+    },
+     {
+      id: 3,
       title: "Bondi - Bootstrap Landing Page",
       description: "Bondi is a responsive and modern landing page built using HTML5, CSS3, Bootstrap 5, and Font Awesome. It showcases a professional layout suitable for creative services, design agencies, or portfolios.",
       image: "/Bondi.png",
@@ -26,7 +35,7 @@ const Projects = () => {
       demo: "https://rana5ahmed.github.io/BootStrap/"
     },
     {
-      id: 3,
+      id: 4,
       title: " Conference Ticket Generator",
       description: "A responsive React + Vite app that allows users to generate personalized event tickets for Coding Conf 2025. Built with React, Bootstrap, and React Dropzone.",
       image: "Ticket Generator.png",
@@ -34,8 +43,9 @@ const Projects = () => {
       github: "https://github.com/Rana5Ahmed/Conference-Ticket-Generator",
       demo: "https://rana5ahmed.github.io/Conference-Ticket-Generator/"
     },
+    
     {
-      id: 4,
+      id: 5,
       title: "Interactive Rating Component",
       description: "Interactive rating component built using HTML, CSS, and JavaScript. Users can rate from 1 to 5 and see a thank-you screen once they submit their rating.",
       image: "/Interactive-Rating-Component.png",
@@ -44,23 +54,15 @@ const Projects = () => {
       demo: "https://rana5ahmed.github.io/Interactive-Rating-Component/"
     },
 
-    {
-      id: 5,
-      title: "Age Calculator App",
-      description: "A responsive and interactive Age Calculator built with React and styled using CSS. It allows users to input their date of birth and instantly calculates the number of years, months, and days they've lived.",
-      image: "/Age Calculator.png",
-      technologies: ["React.js", "CSS"],
-      github: "https://github.com/Rana5Ahmed/Age-Calculator",
-      demo: "https://rana5ahmed.github.io/Age-Calculator/"
-    },
+    
       {
       id: 6,
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates.",
-      image: "/Task-Management-App.png",
-      technologies: ["React.js", "CSS"],
-      github: "https://github.com/Rana5Ahmed/Task-Management-App",
-      demo: "https://rana5ahmed.github.io/Task-Management-App/"
+      title: "Advice-Generator-App",
+      description: "A simple React-based Advice Generator that displays random advice each time you click the dice button.This project is styled using Tailwind CSS and fetches advice from a local JSON file.",
+      image: "/Advice Generator.png",
+      technologies: ["React.js", "Tailwind"],
+      github: "https://github.com/Rana5Ahmed/Advice-Generator-App",
+      demo: "https://rana5ahmed.github.io/Advice-Generator-App/"
     },
   ];
 
