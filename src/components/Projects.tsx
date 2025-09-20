@@ -20,7 +20,7 @@ const Projects = () => {
       id: 2,
       title: "Online Learning",
       description: "Online learning website built with a modern responsive design, ensuring seamless access across devices.It integrates interactive features and scalable architecture for a smooth and engaging user experience.",
-      image: "/Online Learning.png",
+      image: "/Online-Learning.png",
       technologies: ["HTML", "CSS","JS"],
       github: "https://github.com/Rana5Ahmed/Online-Learning",
       demo: "https://rana5ahmed.github.io/Online-Learning/"
@@ -59,7 +59,7 @@ const Projects = () => {
       id: 6,
       title: "Advice-Generator-App",
       description: "A simple React-based Advice Generator that displays random advice each time you click the dice button.This project is styled using Tailwind CSS and fetches advice from a local JSON file.",
-      image: "/Advice Generator.png",
+      image: "/Advice-Generator.png",
       technologies: ["React.js", "Tailwind"],
       github: "https://github.com/Rana5Ahmed/Advice-Generator-App",
       demo: "https://rana5ahmed.github.io/Advice-Generator-App/"
